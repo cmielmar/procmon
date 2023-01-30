@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aauiW/zRmEQ1v6Ik4g6t1mAskgSfudVGn4/8KL04q13BMlFGcEVYGObdKR4JRNfi/rDNL3A2CNKVJu+37heJCg==",
+  "dgSpecHash": "zQrhD3kRcEDTUqGtIr9a81cDbO/zVvYRD5lg5b7tMJwH5V2uuvuDZC6qI6SCTS5OfAXdGQMOocXBZ+Xc9+R4Dg==",
   "success": true,
-  "projectFilePath": "C:\\xan\\ProcessMonitorTests\\ProcessMonitorTests.csproj",
+  "projectFilePath": "C:\\xan\\ProcUtil\\ProcessMonitorTests\\ProcessMonitorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmielmar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\cmielmar\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

@@ -4123,11 +4123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xan\\ProcessMonitorTests\\ProcessMonitorTests.csproj",
+      "projectUniqueName": "C:\\xan\\ProcUtil\\ProcessMonitorTests\\ProcessMonitorTests.csproj",
       "projectName": "ProcessMonitorTests",
-      "projectPath": "C:\\xan\\ProcessMonitorTests\\ProcessMonitorTests.csproj",
+      "projectPath": "C:\\xan\\ProcUtil\\ProcessMonitorTests\\ProcessMonitorTests.csproj",
       "packagesPath": "C:\\Users\\cmielmar\\.nuget\\packages\\",
-      "outputPath": "C:\\xan\\ProcessMonitorTests\\obj\\",
+      "outputPath": "C:\\xan\\ProcUtil\\ProcessMonitorTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmielmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4144,8 +4144,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\xan\\Process\\ProcessMonitor.csproj": {
-              "projectPath": "C:\\xan\\Process\\ProcessMonitor.csproj"
+            "C:\\xan\\ProcUtil\\Process\\ProcessMonitor.csproj": {
+              "projectPath": "C:\\xan\\ProcUtil\\Process\\ProcessMonitor.csproj"
             }
           }
         }

@@ -22,7 +22,7 @@ namespace ProcessMonitor
             }
             catch (Exception)
             {
-                Console.WriteLine("Usage: Procs.exe <process name> <wait time> <frequency>");
+                Console.WriteLine("Please provide args: ProcessMonitor.exe <process name> <max process age> <frequency>");
             }
         }
     }
